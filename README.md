@@ -1,3 +1,4 @@
+1.Intro
 # Admin Dashboard Project
 
 This project is a simple Admin Dashboard built with Vue 3, Nuxt 3, and Express.js. It allows users to manage users and roles in an admin panel.
@@ -21,17 +22,10 @@ This project is a simple Admin Dashboard built with Vue 3, Nuxt 3, and Express.j
 
 ## Installation
 
-1. Clone the repository:
+2. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/admin-dashboard.git
-```
-
-2.Install dependencies:
-
-```bash
-cd admin-dashboard
-npm install
+git clone https://github.com/Dinesh11234/RBAC-App
 ```
 
 3.Set up the backend:
