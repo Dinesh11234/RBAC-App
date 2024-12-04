@@ -60,9 +60,11 @@ This will run the Nuxt.js app at http://localhost:3000.
 
 6.Login Credentials
 To log into the admin dashboard, use the following credentials:
-
+ ```bash
 Email: dinesh@gmail.com
 Password: password123
+```
+
 After logging in, you will have access to the Users and Roles management pages.
 
 7.API Endpoints
