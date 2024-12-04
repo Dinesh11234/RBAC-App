@@ -42,9 +42,10 @@ npm install
 npm start
 ```
 This will run the server at http://localhost:3001.
+don't close the cmd
 
 5.Set up the frontend:
-In the frontend folder, install dependencies:
+open new cmd for frontend folder, install dependencies:
 
 ```bash
 cd frontend
